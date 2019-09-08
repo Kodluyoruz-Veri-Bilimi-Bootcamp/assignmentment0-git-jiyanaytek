@@ -2,7 +2,7 @@
 * Basics of git
 
 ----
-
+Kodluyoruz
 * git config user.name “First Last" 
 * git config --global user.email "email@example.com"
 
